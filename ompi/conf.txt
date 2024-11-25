@@ -1,0 +1,4 @@
+compiler:
+	-fopenmp
+linker:
+	-lgomp -pthread
